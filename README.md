@@ -1,5 +1,4 @@
 # dotfiles
-Personal Custom Configurations .dotfiles
 
 # dotfiles/nvim
 
