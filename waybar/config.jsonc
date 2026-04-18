@@ -30,7 +30,7 @@
     // "custom/temperature_gpu",
     // "custom/gpu"
     // "backlight",
-    "keyboard-state",
+    // "keyboard-state",
     "hyprland/language",
     // "battery",
     // "battery#bat2",
